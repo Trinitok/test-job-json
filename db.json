@@ -20,5 +20,10 @@
     { "id": 6, "title": "john", "complete": "October 25 2020 17:15 pm" },
     { "id": 7, "title": "john", "complete": "October 26 2020 18:15 pm" },
     { "id": 8, "title": "john", "complete": "October 27 2020 19:15 pm" }
+  ],
+  "people": [
+    { "id": 1, "name": "john" },
+    { "id": 1, "name": "max" },
+    { "id": 1, "name": "vasa" }
   ]
 }
