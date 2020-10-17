@@ -12,10 +12,6 @@
     "name": "typicode"
   },
   "jobs": [
-    {
-      "id": 1,
-      "title": "john",
-      "complete": "October 20 2020 12:15 pm",
-    }
+    { "id": 1, "title": "john", "complete": "October 20 2020 12:15 pm" }
   ]
 }
