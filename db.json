@@ -1,14 +1,14 @@
 {
-  "jobs": [
-    {
-      "id": 1,
-      "title": "john",
-      "complete": "October 20 2020 12:15 pm",
-    },
-    {
-      "id": 2,
-      "title": "max",
-      "complete": "October 20 2020 15:15 pm",
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
